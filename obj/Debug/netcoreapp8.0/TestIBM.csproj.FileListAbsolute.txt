@@ -1,0 +1,14 @@
+C:\Users\Master the Matrix\source\repos\TestIBM\bin\Debug\netcoreapp8.0\TestIBM.exe
+C:\Users\Master the Matrix\source\repos\TestIBM\bin\Debug\netcoreapp8.0\TestIBM.deps.json
+C:\Users\Master the Matrix\source\repos\TestIBM\bin\Debug\netcoreapp8.0\TestIBM.runtimeconfig.json
+C:\Users\Master the Matrix\source\repos\TestIBM\bin\Debug\netcoreapp8.0\TestIBM.dll
+C:\Users\Master the Matrix\source\repos\TestIBM\bin\Debug\netcoreapp8.0\TestIBM.pdb
+C:\Users\Master the Matrix\source\repos\TestIBM\obj\Debug\netcoreapp8.0\TestIBM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master the Matrix\source\repos\TestIBM\obj\Debug\netcoreapp8.0\TestIBM.AssemblyInfoInputs.cache
+C:\Users\Master the Matrix\source\repos\TestIBM\obj\Debug\netcoreapp8.0\TestIBM.AssemblyInfo.cs
+C:\Users\Master the Matrix\source\repos\TestIBM\obj\Debug\netcoreapp8.0\TestIBM.csproj.CoreCompileInputs.cache
+C:\Users\Master the Matrix\source\repos\TestIBM\obj\Debug\netcoreapp8.0\TestIBM.dll
+C:\Users\Master the Matrix\source\repos\TestIBM\obj\Debug\netcoreapp8.0\refint\TestIBM.dll
+C:\Users\Master the Matrix\source\repos\TestIBM\obj\Debug\netcoreapp8.0\TestIBM.pdb
+C:\Users\Master the Matrix\source\repos\TestIBM\obj\Debug\netcoreapp8.0\TestIBM.genruntimeconfig.cache
+C:\Users\Master the Matrix\source\repos\TestIBM\obj\Debug\netcoreapp8.0\ref\TestIBM.dll

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Master the Matrix\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Master the Matrix\\.nuget\\packages"
+    ]
+  }
+}

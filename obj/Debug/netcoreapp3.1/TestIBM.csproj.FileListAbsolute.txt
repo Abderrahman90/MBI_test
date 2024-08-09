@@ -1,0 +1,27 @@
+C:\Users\Abder\source\repos\TestIBM\bin\Debug\netcoreapp3.1\TestIBM.exe
+C:\Users\Abder\source\repos\TestIBM\bin\Debug\netcoreapp3.1\TestIBM.deps.json
+C:\Users\Abder\source\repos\TestIBM\bin\Debug\netcoreapp3.1\TestIBM.runtimeconfig.json
+C:\Users\Abder\source\repos\TestIBM\bin\Debug\netcoreapp3.1\TestIBM.runtimeconfig.dev.json
+C:\Users\Abder\source\repos\TestIBM\bin\Debug\netcoreapp3.1\TestIBM.dll
+C:\Users\Abder\source\repos\TestIBM\bin\Debug\netcoreapp3.1\TestIBM.pdb
+C:\Users\Abder\source\repos\TestIBM\obj\Debug\netcoreapp3.1\TestIBM.AssemblyInfoInputs.cache
+C:\Users\Abder\source\repos\TestIBM\obj\Debug\netcoreapp3.1\TestIBM.AssemblyInfo.cs
+C:\Users\Abder\source\repos\TestIBM\obj\Debug\netcoreapp3.1\TestIBM.csproj.CoreCompileInputs.cache
+C:\Users\Abder\source\repos\TestIBM\obj\Debug\netcoreapp3.1\TestIBM.dll
+C:\Users\Abder\source\repos\TestIBM\obj\Debug\netcoreapp3.1\TestIBM.pdb
+C:\Users\Abder\source\repos\TestIBM\obj\Debug\netcoreapp3.1\TestIBM.genruntimeconfig.cache
+C:\Users\Abder\source\repos\TestIBM\obj\Debug\netcoreapp3.1\TestIBM.csproj.AssemblyReference.cache
+C:\Users\Abder\source\repos\TestIBM\obj\Debug\netcoreapp3.1\TestIBM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master the Matrix\source\repos\TestIBM\bin\Debug\netcoreapp3.1\TestIBM.exe
+C:\Users\Master the Matrix\source\repos\TestIBM\bin\Debug\netcoreapp3.1\TestIBM.deps.json
+C:\Users\Master the Matrix\source\repos\TestIBM\bin\Debug\netcoreapp3.1\TestIBM.runtimeconfig.json
+C:\Users\Master the Matrix\source\repos\TestIBM\bin\Debug\netcoreapp3.1\TestIBM.runtimeconfig.dev.json
+C:\Users\Master the Matrix\source\repos\TestIBM\bin\Debug\netcoreapp3.1\TestIBM.dll
+C:\Users\Master the Matrix\source\repos\TestIBM\bin\Debug\netcoreapp3.1\TestIBM.pdb
+C:\Users\Master the Matrix\source\repos\TestIBM\obj\Debug\netcoreapp3.1\TestIBM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Master the Matrix\source\repos\TestIBM\obj\Debug\netcoreapp3.1\TestIBM.AssemblyInfoInputs.cache
+C:\Users\Master the Matrix\source\repos\TestIBM\obj\Debug\netcoreapp3.1\TestIBM.AssemblyInfo.cs
+C:\Users\Master the Matrix\source\repos\TestIBM\obj\Debug\netcoreapp3.1\TestIBM.csproj.CoreCompileInputs.cache
+C:\Users\Master the Matrix\source\repos\TestIBM\obj\Debug\netcoreapp3.1\TestIBM.dll
+C:\Users\Master the Matrix\source\repos\TestIBM\obj\Debug\netcoreapp3.1\TestIBM.pdb
+C:\Users\Master the Matrix\source\repos\TestIBM\obj\Debug\netcoreapp3.1\TestIBM.genruntimeconfig.cache
